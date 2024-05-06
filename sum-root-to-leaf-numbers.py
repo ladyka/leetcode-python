@@ -1,5 +1,7 @@
 from typing import Optional
 
+from tree_node import TreeNode
+
 
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
